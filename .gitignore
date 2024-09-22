@@ -1,0 +1,4 @@
+postgres-data
+.idea
+*/node_modules
+*/dist
